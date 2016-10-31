@@ -8,7 +8,7 @@
     "title": "Slicer",
     "icon": "link.png",
     "toolbar": true,
-    "frame": ture,
+    "frame": true,
     "width": 800,
     "height": 700,
     "position": "mouse",
